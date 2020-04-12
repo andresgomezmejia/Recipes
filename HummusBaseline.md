@@ -19,7 +19,7 @@
 6. Add more ice water by the tablespoon if necessary to achieve a super creamy texture.
 7. Taste, and adjust as necessary
 
-![GitHub Logo](hummus.jpg)
+![GitHub Logo](/Images/hummus.jpg)
 
 ## Source
 https://www.inspiredtaste.net/15938/easy-and-smooth-hummus-recipe/
