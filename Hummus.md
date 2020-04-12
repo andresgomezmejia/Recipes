@@ -1,21 +1,14 @@
 # Hummus
 
 # Ingredients
-250 grams cooked chickpeas
-
-60 ml fresh lemon juice (1 large lemon)
-
-60 ml well-stirred tahini
-
-1 small garlic clove, minced
-
-2 tablespoons (30 ml) extra-virgin olive oil, plus more for serving
-
-1/2 teaspoon ground cumin
-
-Salt to taste (About 1/2 teasppon)
-
-2 to 3 tablespoons (30 to 45 ml) cold water
+* 250 grams cooked chickpeas
+* 60 ml fresh lemon juice (1 large lemon)
+* 60 ml well-stirred tahini
+* 1 small garlic clove, minced
+* 2 tablespoons (30 ml) extra-virgin olive oil, plus more for serving
+* 1/2 teaspoon ground cumin
+* Salt to taste (About 1/2 teasppon)
+* 2 to 3 tablespoons (30 to 45 ml) cold water
 
 # Steps
 1. Combine lemon juice, garlic and salt and let the mixture sit for 10 minutes
@@ -26,6 +19,7 @@ Salt to taste (About 1/2 teasppon)
 6. Add more ice water by the tablespoon if necessary to achieve a super creamy texture.
 7. Taste, and adjust as necessary
 
+![GitHub Logo](hummus.jpg)
 
 ## Source
 https://www.inspiredtaste.net/15938/easy-and-smooth-hummus-recipe/
